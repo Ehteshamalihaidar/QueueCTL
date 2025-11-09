@@ -14,8 +14,17 @@ A production-grade, cross-platform CLI-based job queue system with worker proces
 
 ---
 
+## 🎥 Demo Video
+
+[▶️ Watch QueueCTL Demo Video](https://drive.google.com/file/d/1nbhAyTk6IoGLssGFYgFWCxaxMmbi2lH1/view?usp=sharing)
+
+Click the link above to see QueueCTL in action!
+
+---
+
 ## 📋 Table of Contents
 
+- [Demo Video](#-demo-video)
 - [Requirements](#-requirements)
 - [Installation](#-installation)
 - [Essential Commands](#-essential-commands)
